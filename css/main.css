@@ -284,3 +284,73 @@ a:active {
 .offset-md-11 {
   margin-left: 91.666667%;
 }
+
+/******************** ICONGRAPHY ********************/
+i {
+  color: #767676;
+  font-size: 18px;
+}
+
+.number-icons {
+  background: #008489;
+  height: 48px;
+  width: 48px;
+  border-radius: 100%;
+  display: block;
+}
+
+/******************** BUTTONS ********************/
+.btn-primary {
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  border-width: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background: #da3742;
+  color: #ffff;
+  height: 35px;
+  width: 108px;
+}
+
+.btn-secondary {
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 800;
+  border-width: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background: #ff5a5f;
+  color: #ffff;
+  height: 49px;
+  width: 157px;
+}
+
+.btn-light {
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 800;
+  border-width: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background: #ffff;
+  color: #484848;
+  height: 49px;
+  width: 157px;
+}
+
+.btn-xsmall {
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  background: #006a70;
+  color: #ffff;
+  height: 12px;
+  width: 20px;
+}
+
+/******************** NAVBAR ********************/
