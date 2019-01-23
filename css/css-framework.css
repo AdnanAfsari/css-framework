@@ -349,7 +349,7 @@ html {
 }
 
 body {
-  font-family: 'Circular', Roboto, Helvetica Neue, sans-serif;
+  font-family: 'Cabin', sans-serif;
   font-weight: 400;
   line-height: 1.75;
   color: #484848;
@@ -408,6 +408,8 @@ ul li {
 a {
   text-decoration: none;
   background-color: transparent;
+  color: #484848;
+  font-weight: 600;
 }
 
 a:hover {
