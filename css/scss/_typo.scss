@@ -1,0 +1,82 @@
+/*
+|----------------------------------------------------------------------------
+| GLOBAL STYLES
+|----------------------------------------------------------------------------
+*/
+
+/******************** TYPOGRAPHY ********************/
+html {
+  font-size: 14px;
+}
+
+body {
+  font-family: 'Circular', Roboto, Helvetica Neue, sans-serif;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #484848;
+  font-size: 100%;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #3333;
+  text-transform: capitalize;
+  margin: 0;
+}
+
+h1 {
+  font-family: inherit;
+  font-size: 4.286em;
+  font-weight: 900;
+  line-height: 1.04;
+  color: #3333;
+}
+
+h2 {
+  font-size: 2.857em;
+  font-weight: 800;
+  line-height: 40px;
+  letter-spacing: -0.6px;
+}
+
+h3 {
+  font-size: 1.714em;
+  font-weight: 800;
+  line-height: 1.25em;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+h4 {
+  font-size: 1.143em;
+  font-weight: 500;
+  line-height: 22px;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:focus {
+  text-decoration: none;
+}
+
+a:active {
+  color: #008489;
+}
