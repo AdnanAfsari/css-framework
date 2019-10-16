@@ -10,7 +10,7 @@ by: [Adnan Afsari](https://github.com/AdnanAfsari) and [James](https://github.co
 
 1. You can use either way
 
-2. Include this line in the `<head>` section your main hthml file (i.e. index.html):
+2. Include this line in the `<head>` section your main html file (i.e. index.html):
 
    ```html
    <link rel="stylesheet" href="<directory for sneakerstrap>/css-framework.css">
